@@ -13,3 +13,5 @@ public class Island2 {
         return ", на острове дерево " + wood.toString();
     }
 }
+
+
